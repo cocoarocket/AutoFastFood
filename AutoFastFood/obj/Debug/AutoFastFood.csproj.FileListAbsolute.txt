@@ -1,0 +1,10 @@
+C:\Users\phoenix7\source\repos\AutoFastFood\AutoFastFood\bin\Debug\AutoFastFood.exe.config
+C:\Users\phoenix7\source\repos\AutoFastFood\AutoFastFood\bin\Debug\AutoFastFood.exe
+C:\Users\phoenix7\source\repos\AutoFastFood\AutoFastFood\bin\Debug\AutoFastFood.pdb
+C:\Users\phoenix7\source\repos\AutoFastFood\AutoFastFood\obj\Debug\AutoFastFood.csprojResolveAssemblyReference.cache
+C:\Users\phoenix7\source\repos\AutoFastFood\AutoFastFood\obj\Debug\AutoFastFood.Form1.resources
+C:\Users\phoenix7\source\repos\AutoFastFood\AutoFastFood\obj\Debug\AutoFastFood.Properties.Resources.resources
+C:\Users\phoenix7\source\repos\AutoFastFood\AutoFastFood\obj\Debug\AutoFastFood.csproj.GenerateResource.Cache
+C:\Users\phoenix7\source\repos\AutoFastFood\AutoFastFood\obj\Debug\AutoFastFood.csproj.CoreCompileInputs.cache
+C:\Users\phoenix7\source\repos\AutoFastFood\AutoFastFood\obj\Debug\AutoFastFood.exe
+C:\Users\phoenix7\source\repos\AutoFastFood\AutoFastFood\obj\Debug\AutoFastFood.pdb
